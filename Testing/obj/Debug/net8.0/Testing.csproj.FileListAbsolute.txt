@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\CSharp\charp06Api\Testing\Testing\bin\Debug\net8.0\Testing.exe
+C:\Users\ASUS\Desktop\CSharp\charp06Api\Testing\Testing\bin\Debug\net8.0\Testing.deps.json
+C:\Users\ASUS\Desktop\CSharp\charp06Api\Testing\Testing\bin\Debug\net8.0\Testing.runtimeconfig.json
+C:\Users\ASUS\Desktop\CSharp\charp06Api\Testing\Testing\bin\Debug\net8.0\Testing.dll
+C:\Users\ASUS\Desktop\CSharp\charp06Api\Testing\Testing\bin\Debug\net8.0\Testing.pdb
+C:\Users\ASUS\Desktop\CSharp\charp06Api\Testing\Testing\obj\Debug\net8.0\Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\CSharp\charp06Api\Testing\Testing\obj\Debug\net8.0\Testing.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\CSharp\charp06Api\Testing\Testing\obj\Debug\net8.0\Testing.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\CSharp\charp06Api\Testing\Testing\obj\Debug\net8.0\Testing.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CSharp\charp06Api\Testing\Testing\obj\Debug\net8.0\Testing.dll
+C:\Users\ASUS\Desktop\CSharp\charp06Api\Testing\Testing\obj\Debug\net8.0\refint\Testing.dll
+C:\Users\ASUS\Desktop\CSharp\charp06Api\Testing\Testing\obj\Debug\net8.0\Testing.pdb
+C:\Users\ASUS\Desktop\CSharp\charp06Api\Testing\Testing\obj\Debug\net8.0\Testing.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\CSharp\charp06Api\Testing\Testing\obj\Debug\net8.0\ref\Testing.dll

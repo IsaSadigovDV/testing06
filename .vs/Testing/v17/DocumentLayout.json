@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\CSharp\\charp06Api\\Testing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C915C70-B822-4BEA-A102-927AE780D88B}|CalculationServiceTests\\CalculationServiceTests.csproj|c:\\users\\asus\\desktop\\csharp\\charp06api\\testing\\calculationservicetests\\calculationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C915C70-B822-4BEA-A102-927AE780D88B}|CalculationServiceTests\\CalculationServiceTests.csproj|solutionrelative:calculationservicetests\\calculationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D37532-2960-4F8D-AEA8-FB4179176FF8}|Testing\\Testing.csproj|c:\\users\\asus\\desktop\\csharp\\charp06api\\testing\\testing\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D37532-2960-4F8D-AEA8-FB4179176FF8}|Testing\\Testing.csproj|solutionrelative:testing\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D37532-2960-4F8D-AEA8-FB4179176FF8}|Testing\\Testing.csproj|c:\\users\\asus\\desktop\\csharp\\charp06api\\testing\\testing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D37532-2960-4F8D-AEA8-FB4179176FF8}|Testing\\Testing.csproj|solutionrelative:testing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 92,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculationTest.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CSharp\\charp06Api\\Testing\\CalculationServiceTests\\CalculationTest.cs",
+              "RelativeDocumentMoniker": "CalculationServiceTests\\CalculationTest.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CSharp\\charp06Api\\Testing\\CalculationServiceTests\\CalculationTest.cs",
+              "RelativeToolTip": "CalculationServiceTests\\CalculationTest.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:31:07.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculationService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CSharp\\charp06Api\\Testing\\Testing\\CalculationService.cs",
+              "RelativeDocumentMoniker": "Testing\\CalculationService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CSharp\\charp06Api\\Testing\\Testing\\CalculationService.cs",
+              "RelativeToolTip": "Testing\\CalculationService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:24:52.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CSharp\\charp06Api\\Testing\\Testing\\Program.cs",
+              "RelativeDocumentMoniker": "Testing\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CSharp\\charp06Api\\Testing\\Testing\\Program.cs",
+              "RelativeToolTip": "Testing\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:17:38.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
